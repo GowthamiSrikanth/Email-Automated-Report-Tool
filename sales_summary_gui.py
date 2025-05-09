@@ -30,7 +30,7 @@ def generate_report():
 
     # Step 6: Send email
     receiver = email_entry.get()
-    yag = yagmail.SMTP("gowthamihsrikanth@gmail.com", "ztzw mthx neyf yfbs")
+    yag = yagmail.SMTP("yourmail@gmail.com", "ztzw mthx neyf yfbs")
 
     yag.send(
         to=receiver,

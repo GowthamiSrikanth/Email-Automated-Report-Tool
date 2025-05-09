@@ -29,7 +29,7 @@ print(f"✅ Report generated successfully: {output_file}")
 receiver = input("Enter recipient email: ")
 
 # Step 8: Login and send
-yag = yagmail.SMTP("gowthamihsrikanth@gmail.com", "zyuj tktv nvtu zfda")
+yag = yagmail.SMTP("yourmail@gmail.com", "zyuj tktv nvtu zfda")
 
 yag.send(
     to=receiver,
