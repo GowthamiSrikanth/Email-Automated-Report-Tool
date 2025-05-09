@@ -1,0 +1,7 @@
+﻿Date,Region,Product,Sales_Amount,Units_Sold,Customer_Name
+01-01-2024,North,Laptop,56000,12,Alice
+02-01-2024,South,Phone,18000,8,Bob
+03-01-2024,East,Tablet,42000,5,Charlie
+04-01-2024,West,Monitor,9000,15,Diana
+05-01-2024,South,Laptop,,20,Eve
+06-01-2024,South,Phone,62000,18,
