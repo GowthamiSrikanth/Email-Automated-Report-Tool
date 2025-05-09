@@ -1,31 +1,41 @@
-# 📊 Email Automated Report Tool
+# 📧 Excel Filter & Email Automation Tool
 
-A Python GUI application that filters data from Excel, generates a report, and sends it via email automatically.
-
-## 🚀 Features
-
-- 📂 Upload Excel file (.xlsx)
-- 🔍 Filter rows based on condition
-- 📧 Send filtered report via email
-- 🖥️ Simple and user-friendly GUI
-
-## 🛠️ Tech Stack
-
-- Python 🐍  
-- Tkinter (for GUI)  
-- Pandas (for data manipulation)  
-- smtplib & email (for sending emails)  
-
-## 🧠 Inspiration
-
-Built to automate repetitive report-sending tasks and learn how to integrate email and GUI in Python.
-
-## 💡 Future Improvements
-
-- Add date filters  
-- Add charts/visuals  
-- Convert to .exe using PyInstaller
+A simple yet powerful Python-based desktop app that filters Excel data and sends customized emails — fully automated with a GUI!
 
 ---
+
+## ✨ Features
+
+- ✅ Select and filter Excel data based on conditions
+- ✅ Automatically send emails with selected data
+- ✅ Built-in GUI with file picker and input fields
+- ✅ Secure password input and mail sending via SMTP
+- ✅ Saves time and eliminates manual effort
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- Tkinter (GUI)
+- Pandas (Data Processing)
+- smtplib & email (Mail Automation)
+
+---
+
+## 🖼️ Screenshot
+
+![Screenshot 2025-05-09 162559](https://github.com/user-attachments/assets/e0d9c64f-741c-4aab-affc-f5707b28d41c)
+
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repo or download the `.py` file
+2. Run the script with:
+   ```bash
+   python email_filter_gui.py
+
 
 Made with ❤️ by Gowthami Srikanth
